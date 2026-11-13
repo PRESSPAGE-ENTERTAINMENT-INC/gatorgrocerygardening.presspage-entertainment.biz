@@ -1,0 +1,23 @@
+{
+    "title": "GATOR GROCERY & GARDENING (G3)",
+    "subtitle": "PRESSPAGE ENTERTAINMENT INC",
+    "operations": [
+        {
+            "name": "Shopping & Delivery Service",
+            "description": "Unlike traditional shopping apps that markup prices and charge fees to the merchant. This shopping and delivery service is customer-centric, which means, the customer orders directly from the merchants website and authorizes G3 driver to pickup items. The customer pays G3 for the shopping (if required), pickup and delivery. G3 operates as an independent separate from the merchant."
+        },
+        {
+            "name": "In-home Gardening",
+            "description": "The founder having grown up with a green thumb provides merchandise to improve your at home and indoor agricultural success."
+        },
+        {
+            "name": "Farmer Market Participation",
+            "description": "Using container agriculture and other sustainable farming methods to provide fresh vegetables available at your local farmers market."
+        }
+    ],
+    "about": "Created to combat the high costs of groceries while striving for sustainable farming methods for both the home gardener and the farmer.",
+    "services": "<ul><li>Shopping & Delivery Services</li><li>In-home gardening products</li><li>Farmer Market participation</li></ul>",
+    "year": "2022",
+    "sitename": "gatorgrocerygardening.presspage-entertainment.biz",
+    "email": "presspage.entertainment@gmail.com"
+}
